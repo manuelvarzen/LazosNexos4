@@ -1,0 +1,2323 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.4.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Sheet1",
+    "name" : "Sheet1",
+    "SUID" : 62,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "125",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en el valle de los ríos Apurímac, Ene y Mantaro, CODEVRAEM",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en el valle de los ríos Apurímac, Ene y Mantaro, CODEVRAEM",
+        "SelfLoops" : 0,
+        "SUID" : 125,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : 165.97654209833706,
+        "y" : 569.7760359575175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en la Zona del Huallaga",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en la Zona del Huallaga",
+        "SelfLoops" : 0,
+        "SUID" : 124,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : 255.51719782990637,
+        "y" : 591.0929959876074
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Comisión Nacional de Bienes Incautados",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Comisión Nacional de Bienes Incautados",
+        "SelfLoops" : 0,
+        "SUID" : 123,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : 152.1987632508519,
+        "y" : 478.7699118570281
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Comisión de Alto Nivel Anticorrupción",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Comisión de Alto Nivel Anticorrupción",
+        "SelfLoops" : 0,
+        "SUID" : 122,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : 308.8244590140815,
+        "y" : 516.0578194448285
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Acuerdo Nacional",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Acuerdo Nacional",
+        "SelfLoops" : 0,
+        "SUID" : 121,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 6.0
+      },
+      "position" : {
+        "x" : 231.41692538463275,
+        "y" : 431.903883628578
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Alto Comisionado en Asuntos de Lucha Contra la Tala Ilegal",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Alto Comisionado en Asuntos de Lucha Contra la Tala Ilegal",
+        "SelfLoops" : 0,
+        "SUID" : 120,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 507.37925787881466,
+        "y" : 0.15642024484714057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Alto Comisionado en Asuntos de Formalización de la Minería",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Alto Comisionado en Asuntos de Formalización de la Minería",
+        "SelfLoops" : 0,
+        "SUID" : 119,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 434.31629685833065,
+        "y" : 1.8650655579646127
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Secretaría de Coordinación",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Secretaría de Coordinación",
+        "SelfLoops" : 0,
+        "SUID" : 118,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 566.1744037330977,
+        "y" : 43.56432926912976
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Secretaría de Gestión del Riesgo de Desastres",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Secretaría de Gestión del Riesgo de Desastres",
+        "SelfLoops" : 0,
+        "SUID" : 117,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 377.6145851047628,
+        "y" : 47.97397604283856
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 2,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Secretaría de Gestión Pública",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Secretaría de Gestión Pública",
+        "SelfLoops" : 0,
+        "SUID" : 116,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 586.0539472856368,
+        "y" : 113.89156076610766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 2,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Secretaria de Descentralización",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Secretaria de Descentralización",
+        "SelfLoops" : 0,
+        "SUID" : 115,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 361.04431148687536,
+        "y" : 119.15362042320305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 2,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Oficina Nacional de Gobierno Electrónico e Informática",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Oficina Nacional de Gobierno Electrónico e Informática",
+        "SelfLoops" : 0,
+        "SUID" : 114,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 558.6840924259654,
+        "y" : 181.6559082273452
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Dirección Nacional Técnica de Demarcación Territorial",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Dirección Nacional Técnica de Demarcación Territorial",
+        "SelfLoops" : 0,
+        "SUID" : 113,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 391.5519776414467,
+        "y" : 185.56444821271367
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Oficina Nacional de Diálogo y\nSostenibilidad",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Oficina Nacional de Diálogo y\nSostenibilidad",
+        "SelfLoops" : 0,
+        "SUID" : 112,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 10.0
+      },
+      "position" : {
+        "x" : 495.5386835796729,
+        "y" : 218.449563706536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "ClosenessCentrality" : 1.0,
+        "degree_layout" : 10,
+        "Eccentricity" : 1,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 9,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 18,
+        "shared_name" : "Oficinas PCM",
+        "BetweennessCentrality" : 0.00584416,
+        "EdgeCount" : 10,
+        "Indegree" : 1,
+        "name" : "Oficinas PCM",
+        "SelfLoops" : 0,
+        "SUID" : 111,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 1.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.5
+      },
+      "position" : {
+        "x" : 473.3446295730123,
+        "y" : 107.7780244936497
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Superintendencia Nacional de Servicios de Saneamiento",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Superintendencia Nacional de Servicios de Saneamiento",
+        "SelfLoops" : 0,
+        "SUID" : 110,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : 186.97005504270354,
+        "y" : 147.701932317021
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público",
+        "SelfLoops" : 0,
+        "SUID" : 109,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : 147.25134998412122,
+        "y" : 69.34275082598482
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Organismo Supervisor de Inversión Privada el Telecomunicaciones\n",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Organismo Supervisor de Inversión Privada el Telecomunicaciones\n",
+        "SelfLoops" : 0,
+        "SUID" : 108,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : 14.8558349609375,
+        "y" : 82.19994756529708
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Organismo Supervisor de la Inversión en Energía y Minería",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Organismo Supervisor de la Inversión en Energía y Minería",
+        "SelfLoops" : 0,
+        "SUID" : 107,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 5.0
+      },
+      "position" : {
+        "x" : 266.93036471158825,
+        "y" : 88.51140622149263
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "ClosenessCentrality" : 1.0,
+        "degree_layout" : 5,
+        "Eccentricity" : 1,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 4,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 8,
+        "shared_name" : "Organismos reguladores ",
+        "BetweennessCentrality" : 0.0025974,
+        "EdgeCount" : 5,
+        "Indegree" : 1,
+        "name" : "Organismos reguladores ",
+        "SelfLoops" : 0,
+        "SUID" : 106,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 1.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 2.0
+      },
+      "position" : {
+        "x" : 95.20137412250415,
+        "y" : 186.3899339154369
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Secretaría de Seguridad y Defensa Nacional",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Secretaría de Seguridad y Defensa Nacional",
+        "SelfLoops" : 0,
+        "SUID" : 105,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 532.719965926791,
+        "y" : 713.0250140605986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Dirección Nacional de Inteligencia (DINI)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Dirección Nacional de Inteligencia (DINI)",
+        "SelfLoops" : 0,
+        "SUID" : 104,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 479.99443377734696,
+        "y" : 729.5377441167843
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Instituto Nacional de Radio y Televisión del Perú (IRTP)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Instituto Nacional de Radio y Televisión del Perú (IRTP)",
+        "SelfLoops" : 0,
+        "SUID" : 103,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 571.2921048852346,
+        "y" : 673.4669290396948
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Instituto Nacional de Estadística e Informática",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Instituto Nacional de Estadística e Informática",
+        "SelfLoops" : 0,
+        "SUID" : 102,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 425.74839923848583,
+        "y" : 719.0487150311535
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Instituto Nacional de Defensa de la Competencia y de Protección de la Propiedad Intelectual (INDECOPI)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Instituto Nacional de Defensa de la Competencia y de Protección de la Propiedad Intelectual (INDECOPI)",
+        "SelfLoops" : 0,
+        "SUID" : 101,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 586.4690734798197,
+        "y" : 620.3414961602396
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Organismo de Supervisión de los Recursos Forestales y de Fauna Silvestre (OSINFOR)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Organismo de Supervisión de los Recursos Forestales y de Fauna Silvestre (OSINFOR)",
+        "SelfLoops" : 0,
+        "SUID" : 100,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 382.97906125371003,
+        "y" : 684.0710689883658
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Comisión Nacional para el Desarrollo y Vida sin Drogas (DEVIDA)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Comisión Nacional para el Desarrollo y Vida sin Drogas (DEVIDA)",
+        "SelfLoops" : 0,
+        "SUID" : 99,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 574.6145122630775,
+        "y" : 566.377421326059
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Consejo Nacional de Ciencia y Tecnología ( CONCYTEC )",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Consejo Nacional de Ciencia y Tecnología ( CONCYTEC )",
+        "SelfLoops" : 0,
+        "SUID" : 98,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 361.9338342044672,
+        "y" : 632.9853526598622
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Centro Nacional de Planeamiento Estratégico (CEPLAN)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Centro Nacional de Planeamiento Estratégico (CEPLAN)",
+        "SelfLoops" : 0,
+        "SUID" : 97,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 538.5687411188799,
+        "y" : 524.5043467199278
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Centro Nacional de Estimación, Prevención y Reducción de Riesgos de Desastres (CENEPRED)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Centro Nacional de Estimación, Prevención y Reducción de Riesgos de Desastres (CENEPRED)",
+        "SelfLoops" : 0,
+        "SUID" : 96,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 367.6550959363532,
+        "y" : 578.0315615390871
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Autoridad Nacional del Servicio Civil (SERVIR)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Autoridad Nacional del Servicio Civil (SERVIR)",
+        "SelfLoops" : 0,
+        "SUID" : 95,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 486.96822652105664,
+        "y" : 504.7549445114973
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Despacho Presidencial (DP)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Despacho Presidencial (DP)",
+        "SelfLoops" : 0,
+        "SUID" : 94,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 13.0
+      },
+      "position" : {
+        "x" : 398.77204805701933,
+        "y" : 532.3764710773357
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "ClosenessCentrality" : 1.0,
+        "degree_layout" : 13,
+        "Eccentricity" : 1,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 12,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 24,
+        "shared_name" : "Organismos públicos ",
+        "BetweennessCentrality" : 0.00779221,
+        "EdgeCount" : 13,
+        "Indegree" : 1,
+        "name" : "Organismos públicos ",
+        "SelfLoops" : 0,
+        "SUID" : 93,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 1.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.3846153846153846
+      },
+      "position" : {
+        "x" : 473.6483567886607,
+        "y" : 616.8412804107138
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Desarrollo e Inclusión Social",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Desarrollo e Inclusión Social",
+        "SelfLoops" : 0,
+        "SUID" : 92,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 864.0955137426829,
+        "y" : 389.0673574040665
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Cultura",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Cultura",
+        "SelfLoops" : 0,
+        "SUID" : 91,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 847.7542927378641,
+        "y" : 287.59733580876696
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio del Ambiente",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio del Ambiente",
+        "SelfLoops" : 0,
+        "SUID" : 90,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 846.9763948877234,
+        "y" : 438.269080117053
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de la Mujer y Poblaciones Vulnerables",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de la Mujer y Poblaciones Vulnerables",
+        "SelfLoops" : 0,
+        "SUID" : 89,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 816.0539626181064,
+        "y" : 246.25773229598258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "88",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Vivienda, Construcción y Saneamiento",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Vivienda, Construcción y Saneamiento",
+        "SelfLoops" : 0,
+        "SUID" : 88,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 814.8509044858309,
+        "y" : 479.27915954557596
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de la Producción (Industria y Pesquería)",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de la Producción (Industria y Pesquería)",
+        "SelfLoops" : 0,
+        "SUID" : 87,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 772.677720894623,
+        "y" : 217.40681546060662
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Transportes y Comunicaciones",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Transportes y Comunicaciones",
+        "SelfLoops" : 0,
+        "SUID" : 86,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 771.1790762758303,
+        "y" : 507.68065896183975
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Energía y Minas",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Energía y Minas",
+        "SelfLoops" : 0,
+        "SUID" : 85,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 722.2973486966391,
+        "y" : 204.15193539745795
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Comercio Exterior y Turismo",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Comercio Exterior y Turismo",
+        "SelfLoops" : 0,
+        "SUID" : 84,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 720.6645271411495,
+        "y" : 520.414632183728
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Trabajo y Promoción del Empleo\n",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Trabajo y Promoción del Empleo\n",
+        "SelfLoops" : 0,
+        "SUID" : 83,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 670.338997824449,
+        "y" : 207.92069155011947
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Agricultura y Riego",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Agricultura y Riego",
+        "SelfLoops" : 0,
+        "SUID" : 82,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 668.7478602327749,
+        "y" : 516.109583354654
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Salud",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Salud",
+        "SelfLoops" : 0,
+        "SUID" : 81,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 622.3987741983804,
+        "y" : 228.3071749883779
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 3,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Educación",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Educación",
+        "SelfLoops" : 0,
+        "SUID" : 80,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 621.0206919544735,
+        "y" : 495.2291821029884
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Justicia y Derechos Humanos",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Justicia y Derechos Humanos",
+        "SelfLoops" : 0,
+        "SUID" : 79,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 583.6400166225384,
+        "y" : 263.1156862962888
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio del Interior",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio del Interior",
+        "SelfLoops" : 0,
+        "SUID" : 78,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 582.6234142640212,
+        "y" : 460.0223246138836
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Economía y Finanzas",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Economía y Finanzas",
+        "SelfLoops" : 0,
+        "SUID" : 77,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 558.237186162253,
+        "y" : 308.5972204931675
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Defensa",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Defensa",
+        "SelfLoops" : 0,
+        "SUID" : 76,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 557.6915555105868,
+        "y" : 414.28091922014175
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "ClosenessCentrality" : 1.0,
+        "degree_layout" : 19,
+        "Eccentricity" : 1,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 18,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 36,
+        "shared_name" : "Ministerios",
+        "BetweennessCentrality" : 0.01168831,
+        "EdgeCount" : 19,
+        "Indegree" : 1,
+        "name" : "Ministerios",
+        "SelfLoops" : 0,
+        "SUID" : 75,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 1.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.263157894736842
+      },
+      "position" : {
+        "x" : 707.6462375864267,
+        "y" : 362.21185710275995
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "ClosenessCentrality" : 0.0,
+        "degree_layout" : 1,
+        "Eccentricity" : 0,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 0,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 0,
+        "shared_name" : "Ministerio de Relaciones Exteriores",
+        "BetweennessCentrality" : 0.0,
+        "EdgeCount" : 1,
+        "Indegree" : 1,
+        "name" : "Ministerio de Relaciones Exteriores",
+        "SelfLoops" : 0,
+        "SUID" : 74,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 0.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 19.0
+      },
+      "position" : {
+        "x" : 864.3644688447041,
+        "y" : 336.97319831258164
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "ClosenessCentrality" : 1.0,
+        "degree_layout" : 6,
+        "Eccentricity" : 1,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 10,
+        "shared_name" : "Consejos y comisiones ",
+        "BetweennessCentrality" : 0.00324675,
+        "EdgeCount" : 6,
+        "Indegree" : 1,
+        "name" : "Consejos y comisiones ",
+        "SelfLoops" : 0,
+        "SUID" : 73,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 1.0,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 1.8333333333333333
+      },
+      "position" : {
+        "x" : 233.93698564022716,
+        "y" : 525.5526050915316
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "ClosenessCentrality" : 0.52475248,
+        "degree_layout" : 5,
+        "Eccentricity" : 2,
+        "isExcludedFromPaths" : false,
+        "Outdegree" : 5,
+        "PartnerOfMultiEdgedNodePairs" : 0,
+        "ClusteringCoefficient" : 0.0,
+        "Stress" : 53,
+        "shared_name" : "PCM - Poder Ejecutivo",
+        "BetweennessCentrality" : 0.01720779,
+        "EdgeCount" : 6,
+        "Indegree" : 1,
+        "name" : "PCM - Poder Ejecutivo",
+        "SelfLoops" : 0,
+        "SUID" : 72,
+        "IsSingleNode" : false,
+        "AverageShortestPathLength" : 1.90566038,
+        "selected" : false,
+        "NeighborhoodConnectivity" : 9.333333333333334
+      },
+      "position" : {
+        "x" : 374.9677736668526,
+        "y" : 322.8980066905856
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "178",
+        "source" : "111",
+        "target" : "120",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Alto Comisionado en Asuntos de Lucha Contra la Tala Ilegal",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Alto Comisionado en Asuntos de Lucha Contra la Tala Ilegal",
+        "interaction" : "interacts with",
+        "SUID" : 178,
+        "BEND_MAP_ID" : 179,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "177",
+        "source" : "111",
+        "target" : "119",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Alto Comisionado en Asuntos de Formalización de la Minería",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Alto Comisionado en Asuntos de Formalización de la Minería",
+        "interaction" : "interacts with",
+        "SUID" : 177,
+        "BEND_MAP_ID" : 178,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "176",
+        "source" : "111",
+        "target" : "118",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Secretaría de Coordinación",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Secretaría de Coordinación",
+        "interaction" : "interacts with",
+        "SUID" : 176,
+        "BEND_MAP_ID" : 177,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "175",
+        "source" : "111",
+        "target" : "117",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Secretaría de Gestión del Riesgo de Desastres",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Secretaría de Gestión del Riesgo de Desastres",
+        "interaction" : "interacts with",
+        "SUID" : 175,
+        "BEND_MAP_ID" : 176,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "174",
+        "source" : "111",
+        "target" : "116",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Secretaría de Gestión Pública",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Secretaría de Gestión Pública",
+        "interaction" : "interacts with",
+        "SUID" : 174,
+        "BEND_MAP_ID" : 175,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "173",
+        "source" : "111",
+        "target" : "115",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Secretaria de Descentralización",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Secretaria de Descentralización",
+        "interaction" : "interacts with",
+        "SUID" : 173,
+        "BEND_MAP_ID" : 174,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "172",
+        "source" : "111",
+        "target" : "114",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Oficina Nacional de Gobierno Electrónico e Informática",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Oficina Nacional de Gobierno Electrónico e Informática",
+        "interaction" : "interacts with",
+        "SUID" : 172,
+        "BEND_MAP_ID" : 173,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "171",
+        "source" : "111",
+        "target" : "113",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Dirección Nacional Técnica de Demarcación Territorial",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Dirección Nacional Técnica de Demarcación Territorial",
+        "interaction" : "interacts with",
+        "SUID" : 171,
+        "BEND_MAP_ID" : 172,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "170",
+        "source" : "111",
+        "target" : "112",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ofcinas PCM (interacts with) Oficina Nacional de Diálogo y\nSostenibilidad",
+        "shared_interaction" : "interacts with",
+        "name" : "Ofcinas PCM (interacts with) Oficina Nacional de Diálogo y\nSostenibilidad",
+        "interaction" : "interacts with",
+        "SUID" : 170,
+        "BEND_MAP_ID" : 171,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "169",
+        "source" : "106",
+        "target" : "110",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos reguladores  (interacts with) Superintendencia Nacional de Servicios de Saneamiento",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos reguladores  (interacts with) Superintendencia Nacional de Servicios de Saneamiento",
+        "interaction" : "interacts with",
+        "SUID" : 169,
+        "BEND_MAP_ID" : 170,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "168",
+        "source" : "106",
+        "target" : "109",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos reguladores  (interacts with) Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos reguladores  (interacts with) Organismo Supervisor de la Inversión en Infraestructura de Transporte de Uso Público",
+        "interaction" : "interacts with",
+        "SUID" : 168,
+        "BEND_MAP_ID" : 169,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "167",
+        "source" : "106",
+        "target" : "108",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos reguladores  (interacts with) Organismo Supervisor de Inversión Privada el Telecomunicaciones\n",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos reguladores  (interacts with) Organismo Supervisor de Inversión Privada el Telecomunicaciones\n",
+        "interaction" : "interacts with",
+        "SUID" : 167,
+        "BEND_MAP_ID" : 168,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "166",
+        "source" : "106",
+        "target" : "107",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos reguladores  (interacts with) Organismo Supervisor de la Inversión en Energía y Minería",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos reguladores  (interacts with) Organismo Supervisor de la Inversión en Energía y Minería",
+        "interaction" : "interacts with",
+        "SUID" : 166,
+        "BEND_MAP_ID" : 167,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "165",
+        "source" : "93",
+        "target" : "105",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Secretaría de Seguridad y Defensa Nacional",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Secretaría de Seguridad y Defensa Nacional",
+        "interaction" : "interacts with",
+        "SUID" : 165,
+        "BEND_MAP_ID" : 166,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "164",
+        "source" : "93",
+        "target" : "104",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Dirección Nacional de Inteligencia (DINI)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Dirección Nacional de Inteligencia (DINI)",
+        "interaction" : "interacts with",
+        "SUID" : 164,
+        "BEND_MAP_ID" : 165,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "163",
+        "source" : "93",
+        "target" : "103",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Instituto Nacional de Radio y Televisión del Perú (IRTP)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Instituto Nacional de Radio y Televisión del Perú (IRTP)",
+        "interaction" : "interacts with",
+        "SUID" : 163,
+        "BEND_MAP_ID" : 164,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "162",
+        "source" : "93",
+        "target" : "102",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Instituto Nacional de Estadística e Informática",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Instituto Nacional de Estadística e Informática",
+        "interaction" : "interacts with",
+        "SUID" : 162,
+        "BEND_MAP_ID" : 163,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "161",
+        "source" : "93",
+        "target" : "101",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Instituto Nacional de Defensa de la Competencia y de Protección de la Propiedad Intelectual (INDECOPI)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Instituto Nacional de Defensa de la Competencia y de Protección de la Propiedad Intelectual (INDECOPI)",
+        "interaction" : "interacts with",
+        "SUID" : 161,
+        "BEND_MAP_ID" : 162,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "160",
+        "source" : "93",
+        "target" : "100",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Organismo de Supervisión de los Recursos Forestales y de Fauna Silvestre (OSINFOR)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Organismo de Supervisión de los Recursos Forestales y de Fauna Silvestre (OSINFOR)",
+        "interaction" : "interacts with",
+        "SUID" : 160,
+        "BEND_MAP_ID" : 161,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "159",
+        "source" : "93",
+        "target" : "99",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Comisión Nacional para el Desarrollo y Vida sin Drogas (DEVIDA)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Comisión Nacional para el Desarrollo y Vida sin Drogas (DEVIDA)",
+        "interaction" : "interacts with",
+        "SUID" : 159,
+        "BEND_MAP_ID" : 160,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "158",
+        "source" : "93",
+        "target" : "98",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Consejo Nacional de Ciencia y Tecnología ( CONCYTEC )",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Consejo Nacional de Ciencia y Tecnología ( CONCYTEC )",
+        "interaction" : "interacts with",
+        "SUID" : 158,
+        "BEND_MAP_ID" : 159,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "157",
+        "source" : "93",
+        "target" : "97",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Centro Nacional de Planeamiento Estratégico (CEPLAN)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Centro Nacional de Planeamiento Estratégico (CEPLAN)",
+        "interaction" : "interacts with",
+        "SUID" : 157,
+        "BEND_MAP_ID" : 158,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "156",
+        "source" : "93",
+        "target" : "96",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Centro Nacional de Estimación, Prevención y Reducción de Riesgos de Desastres (CENEPRED)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Centro Nacional de Estimación, Prevención y Reducción de Riesgos de Desastres (CENEPRED)",
+        "interaction" : "interacts with",
+        "SUID" : 156,
+        "BEND_MAP_ID" : 157,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "155",
+        "source" : "93",
+        "target" : "95",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Autoridad Nacional del Servicio Civil (SERVIR)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Autoridad Nacional del Servicio Civil (SERVIR)",
+        "interaction" : "interacts with",
+        "SUID" : 155,
+        "BEND_MAP_ID" : 156,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "154",
+        "source" : "93",
+        "target" : "94",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Organismos públicos  (interacts with) Despacho Presidencial (DP)",
+        "shared_interaction" : "interacts with",
+        "name" : "Organismos públicos  (interacts with) Despacho Presidencial (DP)",
+        "interaction" : "interacts with",
+        "SUID" : 154,
+        "BEND_MAP_ID" : 155,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "153",
+        "source" : "75",
+        "target" : "74",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Relaciones Exteriores",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Relaciones Exteriores",
+        "interaction" : "interacts with",
+        "SUID" : 153,
+        "BEND_MAP_ID" : 154,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "152",
+        "source" : "75",
+        "target" : "92",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Desarrollo e Inclusión Social",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Desarrollo e Inclusión Social",
+        "interaction" : "interacts with",
+        "SUID" : 152,
+        "BEND_MAP_ID" : 153,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "151",
+        "source" : "75",
+        "target" : "91",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Cultura",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Cultura",
+        "interaction" : "interacts with",
+        "SUID" : 151,
+        "BEND_MAP_ID" : 152,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "150",
+        "source" : "75",
+        "target" : "90",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio del Ambiente",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio del Ambiente",
+        "interaction" : "interacts with",
+        "SUID" : 150,
+        "BEND_MAP_ID" : 151,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "149",
+        "source" : "75",
+        "target" : "89",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de la Mujer y Poblaciones Vulnerables",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de la Mujer y Poblaciones Vulnerables",
+        "interaction" : "interacts with",
+        "SUID" : 149,
+        "BEND_MAP_ID" : 150,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "148",
+        "source" : "75",
+        "target" : "88",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Vivienda, Construcción y Saneamiento",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Vivienda, Construcción y Saneamiento",
+        "interaction" : "interacts with",
+        "SUID" : 148,
+        "BEND_MAP_ID" : 149,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "147",
+        "source" : "75",
+        "target" : "87",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de la Producción (Industria y Pesquería)",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de la Producción (Industria y Pesquería)",
+        "interaction" : "interacts with",
+        "SUID" : 147,
+        "BEND_MAP_ID" : 148,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "146",
+        "source" : "75",
+        "target" : "86",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Transportes y Comunicaciones",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Transportes y Comunicaciones",
+        "interaction" : "interacts with",
+        "SUID" : 146,
+        "BEND_MAP_ID" : 147,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "145",
+        "source" : "75",
+        "target" : "85",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Energía y Minas",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Energía y Minas",
+        "interaction" : "interacts with",
+        "SUID" : 145,
+        "BEND_MAP_ID" : 146,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "144",
+        "source" : "75",
+        "target" : "84",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Comercio Exterior y Turismo",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Comercio Exterior y Turismo",
+        "interaction" : "interacts with",
+        "SUID" : 144,
+        "BEND_MAP_ID" : 145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "143",
+        "source" : "75",
+        "target" : "83",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Trabajo y Promoción del Empleo\n",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Trabajo y Promoción del Empleo\n",
+        "interaction" : "interacts with",
+        "SUID" : 143,
+        "BEND_MAP_ID" : 144,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "142",
+        "source" : "75",
+        "target" : "82",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Agricultura y Riego",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Agricultura y Riego",
+        "interaction" : "interacts with",
+        "SUID" : 142,
+        "BEND_MAP_ID" : 143,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "141",
+        "source" : "75",
+        "target" : "81",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Salud",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Salud",
+        "interaction" : "interacts with",
+        "SUID" : 141,
+        "BEND_MAP_ID" : 142,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "140",
+        "source" : "75",
+        "target" : "80",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Educación",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Educación",
+        "interaction" : "interacts with",
+        "SUID" : 140,
+        "BEND_MAP_ID" : 141,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "139",
+        "source" : "75",
+        "target" : "79",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Justicia y Derechos Humanos",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Justicia y Derechos Humanos",
+        "interaction" : "interacts with",
+        "SUID" : 139,
+        "BEND_MAP_ID" : 140,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "138",
+        "source" : "75",
+        "target" : "78",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio del Interior",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio del Interior",
+        "interaction" : "interacts with",
+        "SUID" : 138,
+        "BEND_MAP_ID" : 139,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "137",
+        "source" : "75",
+        "target" : "77",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Economía y Finanzas",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Economía y Finanzas",
+        "interaction" : "interacts with",
+        "SUID" : 137,
+        "BEND_MAP_ID" : 138,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "136",
+        "source" : "75",
+        "target" : "76",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Ministerios (interacts with) Ministerio de Defensa",
+        "shared_interaction" : "interacts with",
+        "name" : "Ministerios (interacts with) Ministerio de Defensa",
+        "interaction" : "interacts with",
+        "SUID" : 136,
+        "BEND_MAP_ID" : 137,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "135",
+        "source" : "73",
+        "target" : "125",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Consejos y comisiones  (interacts with) Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en el valle de los ríos Apurímac, Ene y Mantaro, CODEVRAEM",
+        "shared_interaction" : "interacts with",
+        "name" : "Consejos y comisiones  (interacts with) Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en el valle de los ríos Apurímac, Ene y Mantaro, CODEVRAEM",
+        "interaction" : "interacts with",
+        "SUID" : 135,
+        "BEND_MAP_ID" : 136,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "134",
+        "source" : "73",
+        "target" : "124",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Consejos y comisiones  (interacts with) Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en la Zona del Huallaga",
+        "shared_interaction" : "interacts with",
+        "name" : "Consejos y comisiones  (interacts with) Comisión Multisectorial para la Pacificación y Desarrollo Económico Social en la Zona del Huallaga",
+        "interaction" : "interacts with",
+        "SUID" : 134,
+        "BEND_MAP_ID" : 135,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "133",
+        "source" : "73",
+        "target" : "123",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Consejos y comisiones  (interacts with) Comisión Nacional de Bienes Incautados",
+        "shared_interaction" : "interacts with",
+        "name" : "Consejos y comisiones  (interacts with) Comisión Nacional de Bienes Incautados",
+        "interaction" : "interacts with",
+        "SUID" : 133,
+        "BEND_MAP_ID" : 134,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "73",
+        "target" : "122",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Consejos y comisiones  (interacts with) Comisión de Alto Nivel Anticorrupción",
+        "shared_interaction" : "interacts with",
+        "name" : "Consejos y comisiones  (interacts with) Comisión de Alto Nivel Anticorrupción",
+        "interaction" : "interacts with",
+        "SUID" : 132,
+        "BEND_MAP_ID" : 133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "73",
+        "target" : "121",
+        "EdgeBetweenness" : 3.0,
+        "shared_name" : "Consejos y comisiones  (interacts with) Acuerdo Nacional",
+        "shared_interaction" : "interacts with",
+        "name" : "Consejos y comisiones  (interacts with) Acuerdo Nacional",
+        "interaction" : "interacts with",
+        "SUID" : 131,
+        "BEND_MAP_ID" : 132,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "72",
+        "target" : "106",
+        "EdgeBetweenness" : 10.0,
+        "shared_name" : "Presidencia del Consejo de Ministros (interacts with) Organismos reguladores ",
+        "shared_interaction" : "interacts with",
+        "name" : "Presidencia del Consejo de Ministros (interacts with) Organismos reguladores ",
+        "interaction" : "interacts with",
+        "SUID" : 130,
+        "BEND_MAP_ID" : 131,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "72",
+        "target" : "111",
+        "EdgeBetweenness" : 20.0,
+        "shared_name" : "Presidencia del Consejo de Ministros (interacts with) Ofcinas PCM",
+        "shared_interaction" : "interacts with",
+        "name" : "Presidencia del Consejo de Ministros (interacts with) Ofcinas PCM",
+        "interaction" : "interacts with",
+        "SUID" : 129,
+        "BEND_MAP_ID" : 130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "72",
+        "target" : "93",
+        "EdgeBetweenness" : 26.0,
+        "shared_name" : "Presidencia del Consejo de Ministros (interacts with) Organismos públicos ",
+        "shared_interaction" : "interacts with",
+        "name" : "Presidencia del Consejo de Ministros (interacts with) Organismos públicos ",
+        "interaction" : "interacts with",
+        "SUID" : 128,
+        "BEND_MAP_ID" : 129,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "72",
+        "target" : "75",
+        "EdgeBetweenness" : 38.0,
+        "shared_name" : "Presidencia del Consejo de Ministros (interacts with) Ministerios",
+        "shared_interaction" : "interacts with",
+        "name" : "Presidencia del Consejo de Ministros (interacts with) Ministerios",
+        "interaction" : "interacts with",
+        "SUID" : 127,
+        "BEND_MAP_ID" : 128,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "72",
+        "target" : "73",
+        "EdgeBetweenness" : 12.0,
+        "shared_name" : "Presidencia del Consejo de Ministros (interacts with) Consejos y comisiones ",
+        "shared_interaction" : "interacts with",
+        "name" : "Presidencia del Consejo de Ministros (interacts with) Consejos y comisiones ",
+        "interaction" : "interacts with",
+        "SUID" : 126,
+        "BEND_MAP_ID" : 127,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
